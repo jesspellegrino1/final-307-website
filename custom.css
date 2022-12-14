@@ -1,0 +1,52 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+@charset "UTF-8"; 
+
+
+body { background-color: #f0e9f7; }
+
+
+ul {
+  list-style-type: none;
+  color: #6b33a1; }
+
+   .btn{font-family: arial;}
+
+   .lead{font-family: Times new roman;}
+
+.nav-item:hover {
+	background-color:  #f0e9f7;
+
+
+}
+
+
+
+h5{font-family:georgia;
+color: black;}
+
+
+
+h2{font-family: georgia;
+color:#6b33a1 ;}
+
+
+h1{color: #6b33a1;
+font-family: Georgia;
+
+}
+.col-lg-8{text-align: center;}
+
+
+
+
+.navbar-brand{
+
+    font-family: Georgia;
+	font-size: x-large;
+
+
+
+
+
+
+}
